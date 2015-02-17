@@ -4,7 +4,7 @@ void setup() {
 }
 
 void draw() {
-  background(255, 204, 0);
+  background(0, 0, 0);
   plant(15, 0.4, 0.8);  
 }
 
